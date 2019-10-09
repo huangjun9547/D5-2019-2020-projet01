@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'SourceSansPro-BlackItalic';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf');
+}
+
+@font-face {
+  font-family: 'Merriweather-Light';
+  src: url('../fonts/Merriweather/Merriweather-Light.ttf');
+}
+
+
+.top {
+  position: relative;
+}
+
+.top h1 {
+  width: 100%;
+  /* background: red; */
+  font-family: 'SourceSansPro-BlackItalic';
+  font-size: 0.25rem;
+  font-weight: 700;
+  line-height: 0.3rem;
+
+
+  letter-spacing: 0em;
+}
+
+.top .text {
+  font-family: 'Merriweather-Light', sans-serif;
+  font-size: 0.08rem;
+  position: absolute;
+  right: 2%;
+  bottom: 0.05rem;
+}
+
+
+p {
+  font-family: 'Merriweather-Light', sans-serif;
+  margin: 0;
+  font-size: 0.06rem;
+  line-height: 0.1rem;
+}
+
+span {
+  display: block;
+  font-family: 'SourceSansPro-BlackItalic';
+  font-size: 0.16rem;
+}

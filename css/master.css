@@ -1,0 +1,177 @@
+body,
+html {
+	background: #FFEEDE;
+	padding-bottom: 0.5rem;
+}
+
+img {
+	display: block;
+}
+
+.top {
+	width: 100%;
+	padding: 0.1rem 30% 0.12rem 2%;
+	box-sizing: border-box;
+	overflow: hidden
+}
+
+.line {
+	width: 100%;
+	height: 1px;
+	background: black;
+}
+
+.main-text1 {
+	overflow: hidden;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.35rem 8% 0rem 7%;
+}
+
+.main-text1 .wrap1 {
+	width: 50%;
+	float: left;
+}
+
+.main-text1 .images {
+	margin-top: 0.1rem;
+	float: right;
+	width: 1rem;
+}
+
+.main-text2 {
+	padding: 0.2rem 8% 0rem 7%;
+
+}
+
+.images2 {
+	margin: 0.5rem 8% 0rem 7%;
+	width: 2rem;
+}
+
+.main-text3 {
+	width: 45%;
+	padding: 0.2rem 0% 0rem 30%;
+}
+
+.image {
+	overflow: hidden;
+}
+
+.image .images3 {
+	width: 2.2rem;
+	float: right;
+	margin: 0.7rem 8% 0rem 0rem;
+}
+
+.main-text4 {
+	margin-top: 0.2rem;
+	overflow: hidden;
+	padding-left: 7%;
+	padding-right: 18.4%;
+	width: 45%;
+}
+
+.main-text5 {
+	margin-top: 0.3rem;
+	padding-left: 7%;
+	width: 45%;
+}
+
+.images4 {
+	margin-top: 0.6rem;
+	width: 2.2rem;
+	margin-left: 7%;
+}
+
+.main-text6 {
+	margin-top: 0.2rem;
+	padding-right: 8%;
+	padding-left: 30%;
+	width: 45%;
+}
+
+.main-text6 .wrap {
+	margin-bottom: 0.3rem;
+}
+
+.images5 {
+	margin-top: 0.3rem;
+	margin-right: 7%;
+	float: right;
+	width: 2.2rem;
+}
+
+.main-text7 {
+	margin-top: 0.4rem;
+	margin-left: 8%;
+
+}
+
+.main-text8 {
+	margin-top: 0.2rem;
+	padding: 0rem 18% 0rem 8%;
+	width: 45%;
+}
+
+.images6 {
+	width: 3.3rem;
+	margin-left: 8%;
+	margin-top: 0.5rem;
+}
+
+.main-text9 {
+	margin-top: 0.3rem;
+	padding-left: 28%;
+	padding-right: 8%;
+	width: 45%;
+}
+
+.main-text9 .wrap {
+	margin-bottom: 0.3rem;
+}
+
+.main-text9 .wrap span {
+	display: block;
+	box-sizing: border-box;
+	padding-right: 2%;
+}
+
+.images7 {
+	margin-top: 0.3rem;
+	margin-left: 8%;
+	width: 2.2rem;
+}
+
+.main-text10 {
+	width: 50%;
+  margin-top: 0.3rem;
+  margin-left: 8%;
+}
+
+.main-text11 {
+	width: 84%;
+	margin: 0 auto;
+	margin-top: 0.3rem;
+}
+
+.main-text12 {
+	margin-top: 0.3rem;
+	margin-left: 8%;
+}
+
+.goTop {
+	display: block;
+	;
+	position: fixed;
+	right: 0.13rem;
+	bottom: 0.1rem;
+	width: 0.2rem;
+	height: 0.2rem;
+}
+
+.goTop img {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
